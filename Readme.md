@@ -1,5 +1,7 @@
 # 🐳 Docker & Docker Compose – A Practical Guide for Data Engineers
-This repository demonstrates a basic Docker setup with a simple Python script, intended to illustrate the core concepts and fundamentals of using Docker effectively.
+This repository provides a simple, hands-on introduction to Docker through a basic setup featuring a Python script. Its purpose is to demonstrate the fundamental concepts of Docker and provide practical insight into how Docker works and how it can be used effectively.
+
+It is intended for beginners who want to develop their understanding of Docker. Feel free to clone the repository, explore its structure, and experiment by modifying or extending the Dockerfiles. By examining and adjusting individual instructions, you can gain a better understanding of their purpose and how each component contributes to the containerization process.
 
 ## 🧱 Why Use Docker in Data Engineering?
 
